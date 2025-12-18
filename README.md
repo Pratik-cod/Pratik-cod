@@ -1,78 +1,112 @@
-<h1 align="center">Hi 👋, I'm Pratik Rane</h1>
-<h3 align="center">Frontend Developer | Programmer | Hackathon Builder</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prstik-rane&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pratik%20Rane&fontSize=45&fontAlignY=35&animation=twinkling"/>
+
+<h3>Frontend Developer | Programmer | Hackathon Builder</h3>
+
+<img src="https://komarev.com/ghpvc/?username=prstik-rane&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🧠 Developer Dashboard
+
+<table align="center">
+<tr>
+<td align="center"><b>Frontend</b><br/>HTML, CSS, JavaScript, React, Tailwind</td>
+<td align="center"><b>Languages</b><br/>C, C++, Java, Python</td>
+<td align="center"><b>Tools</b><br/>Git, GitHub</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Strong in **Frontend Development**
-- ⚡ Comfortable with **multiple programming languages**
-- 🧠 Focused on **logic, clean code, and real projects**
-- 🏆 Hackathon participant and team leader
-- 🌱 Currently improving **React and backend integration**
+- Frontend-focused developer with strong programming fundamentals  
+- Builds structured, usable interfaces not flashy garbage  
+- Uses Git and GitHub properly for version control  
+- Hackathon team leader with real project experience  
+- Improves code quality before adding features  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Dashboard
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+</p>
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Project Dashboard
+
+<table>
+<tr>
+<td width="50%">
 
 ### ♿ Smart Inclusion Platform
-A platform built to support people with disabilities by improving digital accessibility and inclusion.
+Accessibility-first platform focused on digital inclusion for people with disabilities.
+
+</td>
+<td width="50%">
 
 ### 🎓 Student Management System
-Manages student records, attendance, and data efficiently using structured logic.
+Manages student records, attendance, and structured data flow.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### ♻️ Green DIY Ideas
-Promotes sustainability by converting waste materials into useful DIY products.
+Sustainability-based platform providing DIY upcycling ideas from waste materials.
+
+</td>
+<td width="50%">
 
 ### 📝 Interactive Quiz Platform
-Users can create quizzes, attempt them, and view scores with leaderboard support.
+Quiz creation, attempts, scoring, and leaderboard functionality.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prstik-rane&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prstik-rane&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prstik-rane&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prstik-rane&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prstik-rane&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## ⚡ Skill Strength Meter
 
-<p>
-  <a href="https://github.com/prstik-rane">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⚡ Build. Learn. Repeat.</h3>
+```text
+Frontend Development     ██████████ 90%
+React & JavaScript       █████████  85%
+Tailwind CSS             █████████  85%
+Problem Solving          █████████  85%
+C / C++ / Java           ████████   80%
+Python                   ████████   80%
+Git & GitHub             █████████  85%
