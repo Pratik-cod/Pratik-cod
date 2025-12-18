@@ -77,5 +77,3 @@
 </p>
 
 ---
-
-<h3 align="center">⭐ Proudly built with Copilot | Make Pratik Rane famous ⭐</h3>
