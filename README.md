@@ -1,112 +1,52 @@
-<div align="center">
+<!--
+██████████████████████████████████████████████████████████████████████████
+██                                                                    ██
+██   WELCOME TO MY GITHUB PROFILE!  |  Hi, I’m Pratik Rane 👋🏽         ██
+██                                                                    ██
+██   Professional Full-Stack Dev | React | Tailwind | Python | C++     ██
+██                                                                    ██
+████████████████████████████████████████████████████████████████████████
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pratik%20Rane&fontSize=45&fontAlignY=35&animation=twinkling"/>
+<h1 align="center">
+  🤖 Hey There, I'm <span style="color:#00E5FF">Pratik Rane</span> 👨‍💻
+</h1>
 
-<h3>Frontend Developer | Programmer | Hackathon Builder</h3>
-
-<img src="https://komarev.com/ghpvc/?username=pratik-rane&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧠 Developer Dashboard
-
-<table align="center">
-<tr>
-<td align="center"><b>Frontend</b><br/>HTML, CSS, JavaScript, React, Tailwind</td>
-<td align="center"><b>Languages</b><br/>C, C++, Java, Python</td>
-<td align="center"><b>Tools</b><br/>Git, GitHub</td>
-</tr>
-</table>
-
----
-
-## 🚀 About Me
-
-- Frontend-focused developer with strong programming fundamentals  
-- Builds structured, usable interfaces not flashy garbage  
-- Uses Git and GitHub properly for version control  
-- Hackathon team leader with real project experience  
-- Improves code quality before adding features  
-
----
-
-## 🛠️ Tech Stack Dashboard
-
-### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+  <strong>Software Developer | Frontend & Backend | Passionate Coder | Lifelong Learner</strong>
 </p>
 
-### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
-</p>
-
-### ⚙️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-cod&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📂 Project Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-### ♿ Smart Inclusion Platform
-Accessibility-first platform focused on digital inclusion for people with disabilities.
-
-</td>
-<td width="50%">
-
-### 🎓 Student Management System
-Manages student records, attendance, and structured data flow.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ♻️ Green DIY Ideas
-Sustainability-based platform providing DIY upcycling ideas from waste materials.
-
-</td>
-<td width="50%">
-
-### 📝 Interactive Quiz Platform
-Quiz creation, attempts, scoring, and leaderboard functionality.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics Dashboard
+## 🌟 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prstik-rane&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prstik-rane&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-code&theme=tokyo-night&hide_border=true"/>
+  <a href="https://github.com/Pratik-cod" target="_blank">  
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:prakitrane@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pratik-rane-xyz">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/pratik_rane">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Skill Strength Meter
+## 🛠️ Skills & Technologies
 
-```text
-Frontend Development     ██████████ 90%
-React & JavaScript       █████████  85%
-Tailwind CSS             █████████  85%
-Problem Solving          █████████  85%
-C / C++ / Java           ████████   80%
-Python                   ████████   80%
-Git & GitHub             █████████  85%
+```html
+🌐 Frontend   : HTML5 | CSS3 | JavaScript | React | TailwindCSS
+🧠 Backend    : Node.js | Express.js | Python
+📦 Tools      : Git | GitHub | VSCode
+💻 Languages  : C | C++ | Java | Python
