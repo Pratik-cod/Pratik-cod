@@ -95,7 +95,7 @@ Quiz creation, attempts, scoring, and leaderboard functionality.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prstik-rane&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-code&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
