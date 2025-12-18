@@ -4,7 +4,7 @@
 
 <h3>Frontend Developer | Programmer | Hackathon Builder</h3>
 
-<img src="https://komarev.com/ghpvc/?username=prstik-rane&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pratik-rane&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
 </div>
 
