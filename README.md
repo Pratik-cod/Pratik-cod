@@ -1,72 +1,69 @@
-<div align="center">
-
-<h1>Pratik Rane</h1>
-<p><strong>Frontend Developer • Programmer • System Builder</strong></p>
-
-<img src="https://komarev.com/ghpvc/?username=Pratik-cod&style=flat&color=0E75B6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&animation=fadeIn"/>
+<h1 align="center">Hi 👋, I'm Pratik Rane</h1>
+<h3 align="center">Full‑Stack Developer | Hackathon Enthusiast | Future‑Ready Engineer 🚀</h3>
 
 ---
 
-## 👋 Overview
-
-I build clean, scalable user interfaces with strong programming fundamentals.  
-Focus areas are clarity, maintainability, and real-world usability.
-
----
-
-## 🧠 Skill Dashboard
-
-| Category | Stack |
-|--------|------|
-| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
-| Languages | C, C++, Java, Python |
-| Tools | Git, GitHub |
-| Core | OOP, DSA, Problem Solving |
+## 🔥 About Me  
+- 🌱 Currently learning **Advanced JavaScript, React Ecosystem & Cloud**  
+- 💻 Passionate about **Web Development, AI Tools & Scalable Systems**  
+- 🏆 Hackathon Participant: Love solving real‑world problems under pressure  
+- 🎯 2025 Goals: Build **10+ Real‑World Projects** & contribute to **Open Source**  
+- 🤝 Open to collaborate on **Web Apps, AI Projects & Hackathons**  
+- ⚡ Fun fact: I debug more than I code 😄  
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack  
 
+### 💻 Languages  
+`JavaScript` `TypeScript` `C++` `Python` `Java` `HTML` `CSS`
+
+### 🚀 Frameworks & Libraries  
+`React` `Tailwind CSS`
+
+### 🧰 Tools & Platforms  
+`Git` `GitHub` `VS Code` `Linux`
+
+---
+
+## 🏆 Hackathon Journey  
+- 🥇 **Winner @ Local Hackathon 2024** – Built a real‑time collaboration app  
+- 🚀 **Top 10 @ National Hackathon 2025** – AI‑powered productivity tool  
+- 💡 Always excited to join new hackathons & innovate with teams  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,java,python,git,github&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📁 Projects
+## 🚀 Featured Projects  
 
-**Smart Inclusion Platform**  
-Accessibility-focused platform for people with disabilities.
+### 🔹 **Modern Portfolio Website**  
+A sleek portfolio built using React + Tailwind  
+🔗 https://github.com/Pratik-cod
 
-**Student Management System**  
-System to manage student records and attendance.
+### 🔹 **JavaScript Projects Collection**  
+Mini‑projects showcasing JS logic & UI  
+🔗 https://github.com/Pratik-cod
 
-**Green DIY Ideas**  
-Sustainability-based upcycling platform.
-
-**Interactive Quiz Platform**  
-Quiz creation and scoring system.
+### 🔹 **Python Automation Tools**  
+Scripts to automate daily tasks  
+🔗 https://github.com/Pratik-cod
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&hide_border=true" width="46%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&hide_border=true" width="46%"/>
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/" target="_blank">LinkedIn</a> • 
+<a href="https://twitter.com/" target="_blank">Twitter</a> • 
+<a href="https://github.com/Pratik-cod" target="_blank">GitHub</a>
 </p>
 
 ---
 
-## 🔗 Connect
-
-- GitHub: https://github.com/Pratik-cod  
-- LinkedIn: add-your-link-here  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
+⭐ **If you like my work, don’t forget to star my repositories!**
