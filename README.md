@@ -29,8 +29,7 @@
 
 ---
 
-## 🏆 Hackathon Highlights  
-- 🥇 **Winner @ Local Hackathon 2024** – Real‑time collaboration app  
+## 🏆 Hackathon Highlights   
 - 🚀 **Top 10 @ National Hackathon 2025** – AI productivity tool  
 - 💡 Always excited to join new hackathons & innovate fast  
 
