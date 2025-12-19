@@ -54,7 +54,7 @@
   🔗 https://github.com/Pratik-cod  
 
 - **⚡ JavaScript Projects Collection**  
-  🔗 https://github.com/Pratik-cod  
+  🔗 (https://github.com/Pratik-cod/Snake-Game) 
 
 - **🤖 Python Automation Tools**  
   🔗 https://github.com/Pratik-cod  
