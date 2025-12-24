@@ -1,20 +1,24 @@
-<h1 align="center">Hi, I'm Pratik Rane</h1>
+<h1 align="center">Pratik Rane</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Frontend-Focused | Hackathon Team Lead</b>
+  <b>Frontend-Focused Full-Stack Developer | Hackathon Team Lead</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Focused+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real+World+Projects&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+%7C+JavaScript+Developer;Building+Real+World+Projects;Hackathon+Team+Leader&center=true&width=520&height=40" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I build practical web applications with clean UI and structured logic.  
-My focus is **React and JavaScript**, with backend experience in **Node.js and Express**.  
-I prioritize **working systems**, not demo-only projects.
+I am a frontend-focused full-stack developer who builds functional, user-centric web applications.  
+My core strength is **React and JavaScript**, where I focus on clean component structure, state management, and responsive UI.
+
+I have hands-on experience with **Node.js and Express**, enabling me to design complete end-to-end systems rather than isolated frontend demos.
+
+I actively participate in **hackathons**, take leadership responsibility, distribute tasks, and ensure working prototypes are delivered under strict time limits.  
+I value execution, clarity, and problem-solving. I avoid theory-only work.
 
 ---
 
@@ -40,7 +44,7 @@ I prioritize **working systems**, not demo-only projects.
 ## 🧪 Experience & Activities
 
 - Team Leader in multiple hackathons  
-- Virtual Frontend Internship at **IBM (Edunet Foundation)**  
+- Virtual Frontend Internship at IBM via Edunet Foundation  
 - Built and pitched working prototypes under time pressure  
 - Quiz Competition Coordinator and Technical Team Member  
 
@@ -49,24 +53,24 @@ I prioritize **working systems**, not demo-only projects.
 ## 🚀 Featured Projects
 
 ### 🌱 Green DIY Ideas
-Upcycling platform suggesting creative reuse ideas based on waste materials.
+Platform that suggests creative upcycling ideas based on waste materials.
 
-**Tech:** React, JavaScript, APIs  
-**Status:** In Progress  
+Tech: React, JavaScript, APIs  
+Status: In Progress  
 
 ---
 
 ### 🎓 Student Management System
 Role-based system for managing students, attendance, and records.
 
-**Tech:** React, Node.js, Express, MongoDB  
+Tech: React, Node.js, Express, MongoDB  
 
 ---
 
 ### 🔐 Code Lockdown
 Source code protection system that encrypts folders when unauthorized USB devices are detected.
 
-**Tech:** Python, File Encryption  
+Tech: Python, File Encryption  
 
 ---
 
@@ -79,9 +83,20 @@ Source code protection system that encrypts folders when unauthorized USB device
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Pratik-cod/Pratik-cod/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
+  <a href="https://github.com/Pratik-cod">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
   <a href="https://www.linkedin.com/in/YOUR_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -89,6 +104,3 @@ Source code protection system that encrypts folders when unauthorized USB device
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
