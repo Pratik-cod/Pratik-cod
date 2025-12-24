@@ -1,78 +1,98 @@
-<h1 align="center">✨ Pratik Rane ✨</h1>
-<h3 align="center">Full‑Stack Developer | Hackathon Enthusiast | Future‑Ready Engineer 🚀</h3>
+# Pratik Rane
+
+Full-Stack Developer | Frontend-Focused | Hackathon Team Lead
+
+I build practical web applications with clean UI, structured logic, and scalable code.  
+My primary focus is JavaScript and React, with working backend knowledge using Node.js and Express.  
+I learn by building real projects, not tutorials.
 
 ---
 
-## 🔥 About Me  
-- 🌱 Currently mastering **JavaScript, React Ecosystem & Cloud**  
-- 💻 Passionate about **Web Development, AI Tools & Scalable Systems**  
-- 🏆 Hackathon Enthusiast: Solving real‑world problems under pressure  
-- 🎯 2025 Goals: Build **10+ Real‑World Projects** & contribute to **Open Source**  
-- 🤝 Open to collaborate on **Web Apps, AI Projects & Hackathons**  
-- ⚡ Fun fact: I debug more than I code 😄  
+## Technical Skills
+
+**Frontend**
+- HTML5, CSS3
+- JavaScript ES6+
+- React.js
+- Tailwind CSS
+- Responsive Web Design
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Programming Languages**
+- JavaScript
+- Python
+- C, C++, Java
+
+**Tools & Platforms**
+- Git, GitHub
+- VS Code
+- MongoDB
+- Postman
 
 ---
 
-## 🎛️ Tech Dashboard  
+## Experience & Activities
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-</p>
+- Team Leader in multiple hackathons  
+- Built and presented problem-solving based projects under time constraints  
+- Virtual Frontend Internship at IBM via Edunet Foundation  
+- Quiz Competition Coordinator and Technical Team Member  
+
+I focus on execution, team coordination, and delivering working prototypes.
 
 ---
 
-## 🏆 Hackathon Highlights   
-- 🚀 **Top 10 @ National Hackathon 2025** – AI productivity tool  
-- 💡 Always excited to join new hackathons & innovate fast  
+## Featured Projects
+
+### Green DIY Ideas
+Web platform that suggests creative upcycling ideas based on waste materials.  
+Users can input or scan items and receive curated tutorials.
+
+Tech Used: React, JavaScript, APIs  
+Status: In Progress
 
 ---
 
-## 📊 GitHub Stats  
+### Student Management System
+Role-based system for managing students, attendance, and records.  
+Designed for college-level usage.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-cod&theme=tokyonight" height="200"/>
-</p>
+Tech Used: React, Node.js, Express, MongoDB
 
 ---
 
-## 🚀 Featured Projects  
+### Code Lockdown
+Source code protection system that encrypts folders when unauthorized USB devices are detected.
 
-- **🌐 Modern Portfolio Website (React + Tailwind)**  
-  🔗 https://github.com/Pratik-cod  
-
-- **⚡ JavaScript Projects Collection**  
-  🔗 (https://github.com/Pratik-cod/Snake-Game) 
-
-- **🤖 Python Automation Tools**  
-  🔗 https://github.com/Pratik-cod  
+Tech Used: Python, File Encryption, System Monitoring
 
 ---
 
-## 🎬 Fun Animation  
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" />
-</p>
+### JavaScript Projects
+Collection of logic-based frontend projects including games and UI utilities.
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-<a href="https://github.com/Pratik-cod"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+## GitHub Focus
+
+- Clean commit history  
+- Clear folder structure  
+- Readable code  
+- Proper README files per project  
+
+I optimize for clarity, not noise.
 
 ---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
+GitHub: https://github.com/Pratik-cod  
+Email: your.email@example.com
+
+---
+
