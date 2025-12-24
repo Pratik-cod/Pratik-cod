@@ -12,30 +12,30 @@
 
 ## 🧠 About Me
 
-I am a frontend-focused full-stack developer who builds functional, user-centric web applications.  
-My core strength is **React and JavaScript**, where I focus on clean component structure, state management, and responsive UI.
-
-I have hands-on experience with **Node.js and Express**, enabling me to design complete end-to-end systems rather than isolated frontend demos.
-
-I actively participate in **hackathons**, take leadership responsibility, distribute tasks, and ensure working prototypes are delivered under strict time limits.  
-I value execution, clarity, and problem-solving. I avoid theory-only work.
+<p align="center">
+I am a frontend-focused full-stack developer who builds functional, user-centric web applications.<br/>
+My core strength is <b>React and JavaScript</b>, with emphasis on clean component structure, state management, and responsive UI.<br/><br/>
+I have hands-on experience with <b>Node.js and Express</b>, allowing me to design complete end-to-end systems.<br/>
+I actively lead teams in <b>hackathons</b> and deliver working prototypes under strict deadlines.<br/><br/>
+I value execution, clarity, and real problem-solving.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Languages & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,postman" />
 </p>
 
@@ -43,34 +43,39 @@ I value execution, clarity, and problem-solving. I avoid theory-only work.
 
 ## 🧪 Experience & Activities
 
-- Team Leader in multiple hackathons  
-- Virtual Frontend Internship at IBM via Edunet Foundation  
-- Built and pitched working prototypes under time pressure  
-- Quiz Competition Coordinator and Technical Team Member  
+<p align="center">
+Team Leader in multiple hackathons<br/>
+Virtual Frontend Internship at IBM via Edunet Foundation<br/>
+Built and pitched working prototypes under time pressure<br/>
+Quiz Competition Coordinator and Technical Team Member
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌱 Green DIY Ideas
-Platform that suggests creative upcycling ideas based on waste materials.
-
-Tech: React, JavaScript, APIs  
-Status: In Progress  
+<p align="center">
+Platform that suggests creative upcycling ideas based on waste materials.<br/>
+<b>Tech:</b> React, JavaScript, APIs<br/>
+<b>Status:</b> In Progress
+</p>
 
 ---
 
 ### 🎓 Student Management System
-Role-based system for managing students, attendance, and records.
-
-Tech: React, Node.js, Express, MongoDB  
+<p align="center">
+Role-based system for managing students, attendance, and records.<br/>
+<b>Tech:</b> React, Node.js, Express, MongoDB
+</p>
 
 ---
 
 ### 🔐 Code Lockdown
-Source code protection system that encrypts folders when unauthorized USB devices are detected.
-
-Tech: Python, File Encryption  
+<p align="center">
+Source code protection system that encrypts folders when unauthorized USB devices are detected.<br/>
+<b>Tech:</b> Python, File Encryption
+</p>
 
 ---
 
@@ -93,13 +98,15 @@ Tech: Python, File Encryption
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/Pratik-cod">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
