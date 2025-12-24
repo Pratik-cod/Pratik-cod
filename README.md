@@ -1,98 +1,94 @@
-# Pratik Rane
+<h1 align="center">Hi, I'm Pratik Rane</h1>
 
-Full-Stack Developer | Frontend-Focused | Hackathon Team Lead
+<p align="center">
+  <b>Full-Stack Developer | Frontend-Focused | Hackathon Team Lead</b>
+</p>
 
-I build practical web applications with clean UI, structured logic, and scalable code.  
-My primary focus is JavaScript and React, with working backend knowledge using Node.js and Express.  
-I learn by building real projects, not tutorials.
-
----
-
-## Technical Skills
-
-**Frontend**
-- HTML5, CSS3
-- JavaScript ES6+
-- React.js
-- Tailwind CSS
-- Responsive Web Design
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Programming Languages**
-- JavaScript
-- Python
-- C, C++, Java
-
-**Tools & Platforms**
-- Git, GitHub
-- VS Code
-- MongoDB
-- Postman
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Focused+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real+World+Projects&center=true&width=500&height=40" />
+</p>
 
 ---
 
-## Experience & Activities
+## 🧠 About Me
+
+I build practical web applications with clean UI and structured logic.  
+My focus is **React and JavaScript**, with backend experience in **Node.js and Express**.  
+I prioritize **working systems**, not demo-only projects.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🧪 Experience & Activities
 
 - Team Leader in multiple hackathons  
-- Built and presented problem-solving based projects under time constraints  
-- Virtual Frontend Internship at IBM via Edunet Foundation  
+- Virtual Frontend Internship at **IBM (Edunet Foundation)**  
+- Built and pitched working prototypes under time pressure  
 - Quiz Competition Coordinator and Technical Team Member  
 
-I focus on execution, team coordination, and delivering working prototypes.
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Green DIY Ideas
+Upcycling platform suggesting creative reuse ideas based on waste materials.
+
+**Tech:** React, JavaScript, APIs  
+**Status:** In Progress  
 
 ---
 
-## Featured Projects
+### 🎓 Student Management System
+Role-based system for managing students, attendance, and records.
 
-### Green DIY Ideas
-Web platform that suggests creative upcycling ideas based on waste materials.  
-Users can input or scan items and receive curated tutorials.
-
-Tech Used: React, JavaScript, APIs  
-Status: In Progress
+**Tech:** React, Node.js, Express, MongoDB  
 
 ---
 
-### Student Management System
-Role-based system for managing students, attendance, and records.  
-Designed for college-level usage.
-
-Tech Used: React, Node.js, Express, MongoDB
-
----
-
-### Code Lockdown
+### 🔐 Code Lockdown
 Source code protection system that encrypts folders when unauthorized USB devices are detected.
 
-Tech Used: Python, File Encryption, System Monitoring
+**Tech:** Python, File Encryption  
 
 ---
 
-### JavaScript Projects
-Collection of logic-based frontend projects including games and UI utilities.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&theme=default" height="165"/>
+</p>
 
 ---
 
-## GitHub Focus
+## 🌐 Connect With Me
 
-- Clean commit history  
-- Clear folder structure  
-- Readable code  
-- Proper README files per project  
-
-I optimize for clarity, not noise.
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
-GitHub: https://github.com/Pratik-cod  
-Email: your.email@example.com
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
