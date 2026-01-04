@@ -1,11 +1,12 @@
-# Pratik Rane
+<h1 align="center">Pratik Rane</h1>
 
-Frontend Developer  
-React | JavaScript | Hackathon Team Lead
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+%7C+JavaScript+Developer;Building+Real+World+Projects;Hackathon+Team+Leader&center=true&width=520&height=40" />
+</p>
 
 ---
 
-## About
+## 👨‍💻 About
 
 I am a frontend developer focused on building scalable and maintainable web interfaces using React and JavaScript.
 
@@ -17,49 +18,55 @@ I have led teams in hackathons and delivered working prototypes under tight dead
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### Backend (Foundational)
-- Node.js
-- Express
-- MongoDB
+### ⚙ Backend (Foundational)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### Languages & Tools
-- Python
-- Java
-- C++
-- Git
-- GitHub
-- VS Code
+### 🧰 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode" />
+</p>
 
 ---
 
-## Experience & Activities
+## 🏆 Experience & Activities
 
-- Team Lead in multiple hackathons
-- Frontend Intern at IBM via Edunet Foundation
-- Built and pitched functional prototypes under time pressure
-- Quiz Competition Coordinator and Technical Team Member
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratik-cod)
+- Hackathon Team Lead  
+- Frontend Intern at IBM via Edunet Foundation  
+- Built and pitched functional prototypes under time pressure  
+- Quiz Competition Coordinator and Technical Team Member  
 
 ---
 
-## Connect
+## 📊 GitHub Activity
 
-LinkedIn: https://www.linkedin.com/in/pratik-rane-8078662b7/  
-Email: ranepratik13@gmail.com  
-GitHub: https://github.com/Pratik-cod
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratik-cod" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/pratik-rane-8078662b7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ranepratik13@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pratik-cod">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
