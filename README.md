@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/your-groot-circle-image.png" align="right" width="220" style="border-radius: 50%; border: 3px solid #2ea44f;" />
+<img src="groot.png" align="right" width="220" />
 
 # 🌳 Hi, I'm Pratik Rane!
 ### Frontend Specialist | Currently Exploring Backend 🚀
