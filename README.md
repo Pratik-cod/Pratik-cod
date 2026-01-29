@@ -1,64 +1,74 @@
 <div align="center">
 
-<img src="groot.png" align="right" width="220" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=00ff88&height=200&section=header&text=PRATIK%20RANE&fontSize=75&fontAlignY=45&animation=twinkling" width="100%" />
 
-# 🌳 Hi, I'm Pratik Rane!
-### Frontend Specialist | Currently Exploring Backend 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Hackathon+Team+Lead;Frontend+Developer;Full+Stack+Explorer;I+am+Groot!" alt="Typing SVG" />
+
+<br />
+
+<table>
+  <tr>
+    <td width="60%">
+      <h1>🔱 SYSTEM COMMANDER</h1>
+      <p><i>"I am Groot." (Decoding: Architecting digital ecosystems from scratch.)</i></p>
+      <p>
+        I transform complex logic into <b>high-performance visual experiences</b>. 
+        As a <b>Hackathon Team Lead</b>, I thrive in high-pressure environments, 
+        turning "impossible" ideas into functional reality.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjZpZndicXN4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v3Uv4z7V92p6M/giphy.gif" width="180px" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ TECH ARSENAL (Icons Only)
 
 <p align="left">
-  <i>"I am Groot!" (Translation: Growing my code, one branch at a time.)</i>
+  <img src="https://img.shields.io/badge/SKILLS-DASHBOARD-00ff88?style=for-the-badge" />
 </p>
 
 <p align="left">
-I’m a creative developer who loves turning complex problems into pixel-perfect reality. While I've mastered the art of building stunning Frontends, <b>abhi mera pura focus Backend architecture ko sikhne aur master karne par hai</b>—kyunki mujhe engine ko bhi design jitna hi powerful banana hai.
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,github,vscode,vercel" />
 </p>
 
 ---
 
-### 🏆 Milestone & Impact
+### 🏆 BATTLE RECORDS (Leadership)
 
-* **🚀 Hackathon Team Lead:** Led teams to build and pitch functional prototypes under tight deadlines.
-* **🛡️ Frontend Intern @ IBM (Edunet):** Sharpened industry-level skills in building scalable UI.
-* **🧠 Tech Coordinator:** Managed technical infrastructure and execution for large-scale events.
+> **🚀 Hackathon Team Lead:** Led cross-functional teams through intense 48-hour sprints. Managed everything from **System Architecture** to **Final Pitch**, ensuring 100% deployment under crushing deadlines.
 
----
-
-### 🛠️ Tech Stack & Arsenal
-
-**Frontend Mastery**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Currently Diving Into (Backend & Tools)**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> **🛡️ IBM (Edunet) Frontend Intern:** Engineered scalable UI components for industry-level applications, focusing on performance and clean code architecture.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 SYSTEM DIAGNOSTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=dark&bg_color=000000&title_color=2ea44f&icon_color=2ea44f" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-cod&layout=compact&theme=dark&bg_color=000000&title_color=2ea44f" width="300" />
-
----
-
-### 🤝 Let's Connect
 <p align="center">
-  <b>Pratik Rane</b><br><br>
-  <a href="mailto:ranepratik13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pratik-rane-8078662b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Pratik-cod" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=tokyonight&border_color=00ff88&bg_color=0D1117&title_color=00ff88&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-cod&layout=compact&theme=tokyonight&border_color=00ff88&bg_color=0D1117&title_color=00ff88&text_color=ffffff" width="40%" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&theme=tokyonight&border_color=00ff88&background=0D1117&fire=00ff88&ring=00ff88" width="89%" />
+</p>
 
-*"I am Groot." (Translation: Coding is a journey, and I'm just getting started!)* 🌳
+---
+
+### 📡 ESTABLISH ENCRYPTED LINK
+<p align="center">
+  <a href="mailto:ranepratik13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pratik-rane-8078662b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Pratik-cod"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00ff88&height=100&section=footer" width="100%" />
 
 </div>
