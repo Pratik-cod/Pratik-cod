@@ -2,23 +2,20 @@
 <h3 align="center">🚀 Full Stack Developer | Hackathon Team Leader | Tech Explorer</h3>
 
 <p align="center">
-Building scalable web applications and experimenting with modern technologies.
+💡 Passionate about building scalable web apps, leading hackathon teams, and exploring modern tech stacks.
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
-<a href="mailto:yourgmail@gmail.com">
+<a href="mailto:ranepratik13@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Pratik-cod">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/pratik-rane-8078662b7/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
@@ -26,7 +23,6 @@ Building scalable web applications and experimenting with modern technologies.
 ---
 
 ## ⚡ Tech Stack
-
 ### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
@@ -50,7 +46,6 @@ Building scalable web applications and experimenting with modern technologies.
 ---
 
 ## 🧠 Currently Learning
-
 - Advanced Backend with **Node.js**
 - REST API Development
 - Database Design
@@ -59,35 +54,27 @@ Building scalable web applications and experimenting with modern technologies.
 ---
 
 ## 🏆 Achievements
-
 - 🥇 Hackathon **Team Leader**
-- 🚀 Building multiple web projects
-- 💻 Exploring Full Stack Development
+- 🚀 Built multiple full‑stack projects
+- 💻 Exploring advanced system design
 
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik-cod&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-cod&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-cod&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-cod&theme=react-dark"/>
 
 ---
 
 ## 🐍 Contribution Snake Animation
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
@@ -95,11 +82,10 @@ Building scalable web applications and experimenting with modern technologies.
 ---
 
 ## ✨ Quote
-
-> Code. Build. Break. Learn. Repeat.
+> "Code. Build. Break. Learn. Repeat."
 
 ---
 
 <p align="center">
-⭐ If you like my work, follow me on GitHub.
+⭐ If you like my work, follow me on GitHub!
 </p>
